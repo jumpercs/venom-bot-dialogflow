@@ -1,0 +1,33 @@
+{
+  "name": "pny-chatbot",
+  "version": "1.0.0",
+  "description": "ChatBot para a Persianas New York utilizando o VenomBOT como API do Whatsapp integrado ao dialogFlow para criação das Intents de conversação.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Abc Technology",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^4.6.0",
+    "actions-on-google": "^2.4.1",
+    "axios": "^0.20.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "ejs": "^3.1.8",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-validator": "^6.9.2",
+    "http": "0.0.1-security",
+    "mime-types": "^2.1.32",
+    "mysql2": "^2.3.3",
+    "qrcode": "^1.4.4",
+    "socket.io": "^4.5.1",
+    "util": "^0.12.4",
+    "uuid": "^8.3.2",
+    "venom-bot": "^4.2.0",
+    "whatsapp-web.js": "^1.16.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

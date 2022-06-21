@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "persianasny-w-api-wcoj",
+  "private_key_id": "294ef33e72ab491df0f0db308d3be0fb76c6701e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoreMm7RWxEGVR\nZXXxo8Wz77uscyNr+mNeLBMbJ+WsV6Cd5GO5sbsreEtR1usCmmqT/S3ea6iD9ODR\nC3BScT8t0AsdKGY3J68qDyMEuSJgYUqk7Alr9sB7IN2kroPuAbjqdDS6s50DL5fD\nOQlxOVVXtrPTLXFZ8flvRdqFwQp/40D6ogCDEr6M/jfC4XzLpVMl64vmV0sy7Squ\ngwXIiShuuLwMFEiFDB5qwTQyG+uJj2izPGdUJdGDHnIhj84YS5z+F8jY+Ezkcpkh\nUP998gNj4Ljpn9kPz70LcAJwFVtgJE3mGK2QSeg5cRI+6vGHYIXmkgaJ9RM5YG0B\ngr4VNffFAgMBAAECggEAKO+yfgLxzbv96sgl3JPzahzXPh3fTdhBf1xQ8rk3CyFl\nEIyaCznwA7e5B86R0FrrXKkIFb+o8QVf/ju5cbicLaEc4WGplN8jqqBrzjyj9CII\nfIfwLWyAACHUyJ+10vBGEVhMZ7cpdtl5Cl7wRLM2XAgyEiEoLj0EXRXl16omwyxd\n/craPF1X1JE+TALk2j2Mr16y2opdTmyXdF72mKEJ5hoIJSZVgTuxHUuygo4e2FOX\n7hiaUNayKFDLcRtDoZL2Q1781R6EtIL3zeW09xWh1ymwYb0jt8t2elycoumCHFcK\n9Pt11pBtth/PxxuejGzpyEduszm619j59v4PNM/n7QKBgQDRecFjlQuQ7lKNdERL\notk2lEhi8y1Usc7rZYna34NLfUtjaHh/pTslcuwwk2ScEypE7a39vf4QGgXHbkXs\nNZWzGyGJaTKMWbTjrMwylIYG9v/K6iJ/kJ+ZAnVQF3a4ZV+qrmcF+vRu2Wl9GFYp\nK1tY6iUIGRTsQgE5640gNJn/5wKBgQDOJI5Eg2rzlKRP0E8dV/NrDVuYcKQ2EbTO\nnd7mcj5VewNeepbdb28S3bZGVQEaJZJ6EKZOx8L7MYTltVJFup+C3pywVEaNOpME\nrgD+/Qx+A5bI5A3twRB11egXGJK1nuRjq/5q0noF0O59v8GdRVmoc7j/XSbPhqAV\ndE+vLqOFcwKBgFpy4kgncSkRXt/pVhv6oyPn/yGKswYhCKGn5FB3tm+AGG9CCtXC\n+LkA2G9ZFVY3CEdfAYPQ58T4F4q3WMXXlV4S1vZIUCU+DtdII5urefvD50sssdy3\nC9K7tv/wQbj5PMesKpvwcl7yzZPQUFPSfszzvS2z9s7U6UajKPrA+8X9AoGAUNJ2\nURhxc2UA8yYKDsgv8PYAxojLaUOR7zxoa1O5asxbKszHn7QUCYKR94tWbkjy4Bbt\nDZA2u0PUBjgMNLiR176uElhIfRDNGZWbYF4YasO/d64qY+BBMuIWKBADXWAZzZZe\nnsU9AFDFYNow8BeDqo8MplqAX/c5ho/euiGADU8CgYEAx0M6Q5GGBallXJM3vH0B\nYDhvTKnvtW1VJWzT5X3X3HxRSDrHC6kKEEMd3k/TnOWf0f3/zAG0fJyFTAm454L9\nAg98kSXiKWPJcK5egyFM132TyMXFI4HUkr9RoQfopq5KrRdhOuSDRQyhTVP/wYkQ\nzmXyacoQ5o6vE99Giw+MmQk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "persianasny-w-api-wcoj@appspot.gserviceaccount.com",
+  "client_id": "101639425073813964014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/persianasny-w-api-wcoj%40appspot.gserviceaccount.com"
+}
